@@ -1,0 +1,2 @@
+Dấu == là so sánh xem hai biểu thức có bằng nhau hay không
+Dấu = là dùng để gán
