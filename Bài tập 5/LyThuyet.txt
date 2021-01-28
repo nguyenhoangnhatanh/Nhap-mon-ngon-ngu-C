@@ -1,0 +1,35 @@
+KIỂM TRA 1
+- Kết quả :3252
+- Giải thích :
+
+
+
+KIỂM TRA 2 
+Phần 1 : Kiến Thức
+a ) 
+   Khái niệm
+   - Biến là vùng bộ nhớ được cấp phát dùng để lưu trữ giá trị cho một kiểu dữ liệu nào đó tại một thời điểm nhất định và nó được 
+   truy xuất thông qua một tên đã được khai báocho biến đó, một biến trong ngôn ngữ lập trình C trước khi được sử dụng nó phải được khai báo ở đầu mỗi khối lệnh.
+  
+   Cú pháp : Kiểu_dữ_liệu Tên_biến;
+
+b )
+   Khái niệm biến toàn cục
+   - Là biến có phạm vi sử dụng trong toàn bộ chương trình, khai báo ở ngoài tất cả các hàm, các khối.
+   Khái niện biến cục bộ
+   - Là biến có phạm vi sử dụng trong khối/ hàm kể từ sau vị trí nó được khai báo.
+ 
+c ) 
+   Khái niệm hàm 
+   - Hàm là một khối lệnh (nhiều lệnh) thực hiện một nhiệm vụ cụ thể nào đó (tính tổng ,hiện thị thông báo đến người dùng,...)
+   - Một cách hiểu khác về hàm : hàm là một sự chia nhỏ của chương trình
+   
+   Phân loại hàm
+   *Hàm có 2 loại:
+   - Hàm thư viện chuẩn (Standard library function):
+     +Là  các hàm được xây dựng sẵn (build-in function) trong ngôn ngữ C như hàm scanf, frintf, getchar,...
+     +Các hàm nàu được định nghĩa trng các tập tin có phần mở rộng .h như stdio.h, conio.h,...các tập tin này phải được gộp vào 
+      chương trình thông qua chỉ định #include
+   - Hàm do người dùng chỉ định nghĩa (User-defined functions):định nghĩa thu nhu cầu người dùng. Các phần tiếp theo sẽ tìm hiểu 
+     về cú pháp khai báo, định nghĩa và gọi hàm loại này
+     
